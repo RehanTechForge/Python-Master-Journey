@@ -73,7 +73,7 @@ _(More weeks will be added as I progress!)_
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/python-learning.git
+   git clone https://github.com/RehanTechForge/Python-Master-Journey
    ```
 2. Navigate to the folder:
 
