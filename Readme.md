@@ -8,15 +8,15 @@ Welcome to my **Python Learning Repository!** This repository tracks my daily pr
 
 ### 🏆 Week 1
 
-| Day   | Topics Covered                                                                                               |
-| ----- | ------------------------------------------------------------------------------------------------------------ |
-| Day 1 | Print statements, user input, arithmetic operations, temperature conversion, simple interest, BMI calculator |
-| Day 2 | [Topics will be updated]                                                                                     |
-| Day 3 | [Topics will be updated]                                                                                     |
-| Day 4 | [Topics will be updated]                                                                                     |
-| Day 5 | [Topics will be updated]                                                                                     |
-| Day 6 | [Topics will be updated]                                                                                     |
-| Day 7 | [Topics will be updated]                                                                                     |
+| Day   | Topics Covered                                                                                                                                                                      |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Day 1 | Print statements, user input, arithmetic operations, temperature conversion, simple interest, BMI calculator                                                                        |
+| Day 2 | Lists, tuples, dictionaries, sorting and merging lists, finding max/min, reversing lists, implementing a student record system with add, update, delete, and search functionalities |
+| Day 3 | [Topics will be updated]                                                                                                                                                            |
+| Day 4 | [Topics will be updated]                                                                                                                                                            |
+| Day 5 | [Topics will be updated]                                                                                                                                                            |
+| Day 6 | [Topics will be updated]                                                                                                                                                            |
+| Day 7 | [Topics will be updated]                                                                                                                                                            |
 
 ### 🏆 Week 2
 
@@ -38,7 +38,7 @@ _(More weeks will be added as I progress!)_
 
 ### 📝 Day 1: Introduction to Python
 
-📌 **Topics Covered**
+📌 **Topics Covered (Day 1)**
 
 - Print Statements (`print()`)
 - User Input (`input()`)
@@ -46,6 +46,20 @@ _(More weeks will be added as I progress!)_
 - Temperature Conversion (Fahrenheit to Celsius)
 - Simple Interest Calculation
 - BMI Calculator
+
+### 📝 Day 2: Mastering Python Data Structuress
+
+📌 **Topics Covered (Day 2)**
+
+- Lists (sort(), merging, finding max/min, reversing)
+- Tuples (Immutable data storage)
+- Dictionaries (Key-value storage, CRUD operations)
+- Hands-on Project: Student Record System
+   - Add, 
+   - update, 
+   - delete,
+   - search student records using dictionaries
+
 
 📂 **Files:** [`main.py`](./weekOne/Day01/main.py)
 
