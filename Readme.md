@@ -8,15 +8,15 @@ Welcome to my **Python Learning Repository!** This repository tracks my daily pr
 
 ### 🏆 Week 1
 
-| Day   | Topics Covered                                                                                                                                                                      |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Day 1 | Print statements, user input, arithmetic operations, temperature conversion, simple interest, BMI calculator                                                                        |
-| Day 2 | Lists, tuples, dictionaries, sorting and merging lists, finding max/min, reversing lists, implementing a student record system with add, update, delete, and search functionalities |
-| Day 3 | [Topics will be updated]                                                                                                                                                            |
-| Day 4 | [Topics will be updated]                                                                                                                                                            |
-| Day 5 | [Topics will be updated]                                                                                                                                                            |
-| Day 6 | [Topics will be updated]                                                                                                                                                            |
-| Day 7 | [Topics will be updated]                                                                                                                                                            |
+| Day   | Topics Covered                                                                                                                                                                                                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Day 1 | Print statements, user input, arithmetic operations, temperature conversion, simple interest, BMI calculator                                                                                                             |
+| Day 2 | Lists, tuples, dictionaries, sorting and merging lists, finding max/min, reversing lists, implementing a student record system with add, update, delete, and search functionalities                                      |
+| Day 3 | Conditional statements (if, elif, else), decision-making problems, implementing logic for real-world scenarios like age verification, grading system, ATM withdrawal, password strength checker, and discount calculator |
+| Day 4 | [Topics will be updated]                                                                                                                                                                                                 |
+| Day 5 | [Topics will be updated]                                                                                                                                                                                                 |
+| Day 6 | [Topics will be updated]                                                                                                                                                                                                 |
+| Day 7 | [Topics will be updated]                                                                                                                                                                                                 |
 
 ### 🏆 Week 2
 
@@ -55,11 +55,29 @@ _(More weeks will be added as I progress!)_
 - Tuples (Immutable data storage)
 - Dictionaries (Key-value storage, CRUD operations)
 - Hands-on Project: Student Record System
-   - Add, 
-   - update, 
-   - delete,
-   - search student records using dictionaries
+  - Add,
+  - update,
+  - delete,
+  - search student records using dictionaries
 
+### 📝 Day 3: Mastering Conditional Statements
+
+📌 **Topics Covered (Day 3)**
+
+- Conditional Statements (`if`, `elif`, `else`)
+- Conditional Statements (`if`, `elif`, `else`)
+- Nested Conditions (Multiple conditions inside each other)
+- Hands-on Practice with Decision-Making Problems:
+  - Age Verification
+  - Even/Odd Number Checker
+  - Largest Number Finder
+  - Leap Year Checker
+  - Positive, Negative, or Zero Identifier
+  - Grading System
+  - Triangle Type Checker
+  - ATM Cash Withdrawal Logic
+  - Password Strength Checker
+  - Discount Calculator
 
 📂 **Files:** [`main.py`](./weekOne/Day01/main.py)
 
